@@ -1,7 +1,27 @@
-### Hi there 🫡
+### Hi there 🫡 Welcome to my Github profile!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PauMatas&count_private=true&show_icons=true&theme=swift)
+Data Scientist by [UPC BarcelonaTech](https://www.upc.edu/ca) coding everything that comes to my mind
 
+🔭 I’m currently working as:
+* Data Scientist @ [Ametller Origen](https://www.ametllerorigen.com/ca/).
+* Volunteer @ [datastudents](https://linktr.ee/datastudents).
+
+🙌 I have previously worked on:
+* Software for Vehicle Perception at [BCNeMotorsport](https://bcnemotorsport.upc.edu/home/) (10 months).
+* End-to-end NLP Client-Oriented projects and Pricing Optimization projects at [Vinces](https://www.vincesconsulting.com/ca/) (1y 5 months).
+
+🌳 Some of my public projects are:
+* [Formula Student car perception with PointNet](https://github.com/PauMatas/PointNet-FormulaStudent-I2R)
+* [DPA: Driving data visual analysis tool for Formula Student teams](https://github.com/PauMatas/DPA-visual-analytics-tool)
+* [Apunts Dades: Web for University notes sharing](https://github.com/data-students/apunts-dades)
+
+🙌 Get in Touch:
+* [LinkedIn](https://www.linkedin.com/in/pau-matas/)
+* For a BJJ roll🥋 or a basketball pick-up game🏀
+
+📚 I’m currently learning:
+* [Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
+* [Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 
 <!--
 **PauMatas/PauMatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
