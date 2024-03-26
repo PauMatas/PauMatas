@@ -19,11 +19,11 @@ Data Scientist by [UPC BarcelonaTech](https://www.upc.edu/ca) coding everything 
 * [LinkedIn](https://www.linkedin.com/in/pau-matas/)
 * For a BJJ roll🥋 or a basketball pick-up game🏀
 
+<!--
 📚 I’m currently learning:
 * [Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
 * [Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 
-<!--
 **PauMatas/PauMatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
