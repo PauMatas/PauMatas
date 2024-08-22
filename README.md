@@ -3,12 +3,13 @@
 Data Scientist by [UPC BarcelonaTech](https://www.upc.edu/ca) coding everything that comes to my mind
 
 🔭 I’m currently working as:
-* Data Scientist @ [Ametller Origen](https://www.ametllerorigen.com/ca/).
+* ML Engineer @ [Smadex](https://smadex.com).
 * Volunteer @ [datastudents](https://linktr.ee/datastudents).
 
 🙌 I have previously worked on:
 * Software for Vehicle Perception at [BCNeMotorsport](https://bcnemotorsport.upc.edu/home/) (10 months).
 * End-to-end NLP Client-Oriented projects at [Vinces](https://www.vincesconsulting.com/ca/) (1y 5 months).
+* Personalized voucher campaigns with recommender systems at [Ametller Origen](https://www.ametllerorigen.com/ca/) (1 year).
 
 🌳 Some of my public projects are:
 * [Formula Student car perception with PointNet](https://github.com/PauMatas/PointNet-FormulaStudent-I2R)
